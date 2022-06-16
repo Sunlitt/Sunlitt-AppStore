@@ -8,7 +8,7 @@ Available for iPhone, iPad and Apple Watch.
 
 ## Screenshots
 <p align="center">
-<img width=200 src="https://user-images.githubusercontent.com/55358113/174022374-6e936e96-9b65-441a-bce8-c8a386f87d32.mp4" /> <img width=200 src="https://user-images.githubusercontent.com/55358113/174020145-1210cd03-2e5e-42bd-ba3e-7d2854842099.png" /> <img width=200 src="https://user-images.githubusercontent.com/55358113/174020038-340abcfd-bfc5-4fd6-b9bf-ad752d5bc646.png" /> <img width=200 src="https://user-images.githubusercontent.com/55358113/174020225-0b807909-f574-42d0-b86d-f1e1cdec9f17.png" /> <img width=200 src="https://user-images.githubusercontent.com/55358113/174020285-b8b88099-37a8-43df-b934-581f70e49722.png" />
+<img width=220 src="https://user-images.githubusercontent.com/55358113/174022374-6e936e96-9b65-441a-bce8-c8a386f87d32.mp4" /> <img width=220 src="https://user-images.githubusercontent.com/55358113/174020145-1210cd03-2e5e-42bd-ba3e-7d2854842099.png" /> <img width=220 src="https://user-images.githubusercontent.com/55358113/174020038-340abcfd-bfc5-4fd6-b9bf-ad752d5bc646.png" /> <img width=220 src="https://user-images.githubusercontent.com/55358113/174020225-0b807909-f574-42d0-b86d-f1e1cdec9f17.png" /> <img width=220 src="https://user-images.githubusercontent.com/55358113/174020285-b8b88099-37a8-43df-b934-581f70e49722.png" />
 </p>
 
 ## Description
