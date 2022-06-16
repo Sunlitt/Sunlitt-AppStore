@@ -36,3 +36,4 @@ With Litt you also have the opportunity to keep track of the sun direction durin
 - CoreLocation
 - SceneKit
 - CoreHaptics
+- WatchKit
