@@ -1,4 +1,4 @@
-# Litt-AppStore
+# Sunlitt-AppStore
 Litt tells you the direction of the sun at any time of the day.
 
 Available for iPhone, iPad and Apple Watch.
