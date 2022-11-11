@@ -39,4 +39,5 @@ With Sunlitt you also have the opportunity to keep track of the sun direction du
 - SceneKit
 - CoreHaptics
 - WatchKit
+- ClockKit
 - WidgetKit
