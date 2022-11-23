@@ -12,24 +12,24 @@ Available for iPhone, iPad and Apple Watch.
 </p>
 
 ## Description
-Discover the position of the sun at any moment: set the hour and see from what direction sunlight will come at that time.
+Discover the position of the sun at any moment: set the hour and the date to discover from what direction sunlight will come at that time.
 
 Sunlitt solves problems for:
-- House seekers: check if your future house has natural light at any time of the day.
-- Plants lovers: ensure your plants get the right amount of sunlight.
-- Photographers and Content creators: find the right light to plan shoots.
-- Real Estate Agents: showcase the beautiful natural light of an house at any hour.
-- Architects: get an idea of the sunlight direction when scouting a location.
-- Campers: decide where to place their tents to ensure nice shade in the morning.
-- Drivers: park your car in a place that will be in the shadow when you get back to it.
-- People with skin-conditions: know how to avoid sunlight.
-- Solar Panel Technician: find the optimal panel orientation.
-- Travellers: organise your journeys.
-- Joggers: create the perfect path where to run.
+• House seekers: check if your future house has natural light at any time of the day and the year.
+• Plants lovers: ensure your plants get the right amount of sunlight.
+• Photographers and Content creators: find the right light to plan shoots.
+• Real Estate Agents: showcase the beautiful natural light of a house at any hour.
+• Architects: get an idea of the sunlight direction when scouting a location.
+• Campers: decide where to place their tents to ensure nice shade in the morning.
+• Drivers: park your car in a place that will be in the shadow when you get back to it.
+• People with skin conditions: know how to avoid sunlight.
+• Solar Panel Technician: find the optimal panel orientation.
+• Travellers: organise your journeys.
+• Joggers: create the perfect path where to run.
 
-The clean and minimal interface will ensure an outstanding and intuitive experience. If you need more control, you can access Focus Mode to discover the sun direction everywhere in the world. You can pin your position around the world to discover the sun direction in a specific moment, in that specific place.
+Sunlitt has Lock Screen and Home Screen widgets along with Watch complications to keep track of the sun's direction during sunrise, golden hour, and sunset.
 
-With Sunlitt you also have the opportunity to keep track of the sun direction during the phases of sunrise, golden hour and sunset.
+The clean and minimal interface will ensure an outstanding and intuitive experience. If you need more control, you can access the map mode to discover the sun's direction everywhere in the world. You can pin your position around the world to discover the sun's direction in a specific moment, in that specific place.
 
 ## Technologies
 - Swift
