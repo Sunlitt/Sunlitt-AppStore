@@ -5,31 +5,43 @@ Available for iPhone, iPad and Apple Watch.
 
 <img height="50" alt="appstore1024" src="https://user-images.githubusercontent.com/55358113/174021100-c2c410f1-30e0-433c-b8ee-a7152545aa87.png"> [<img src="https://user-images.githubusercontent.com/55358113/174020637-ca23803f-341c-48ce-b896-1fd4b7423310.svg" height="50">](https://apps.apple.com/app/litt/id1628751457)
 
-
 ## Screenshots
+
 <p align="center">
-<img width=220 src="https://user-images.githubusercontent.com/55358113/198070223-5f77c194-b7c9-4e6b-b7fb-b64d044ca7a1.png" /> <img width=220 src="https://user-images.githubusercontent.com/55358113/198070211-1fe6de2b-eb37-4685-8f38-df3df86f41c5.png" /> <img width=220 src="https://user-images.githubusercontent.com/55358113/198070206-7e4a7613-be7a-4c37-b8a9-882fd06003af.png" /> <img width=220 src="https://user-images.githubusercontent.com/55358113/198070199-a7089e47-980f-4a8e-bbe5-922f2043c388.png" /> <img width=220 src="https://user-images.githubusercontent.com/55358113/198070185-53298871-e461-4e65-afaa-b2f3f21f0fb2.png" />
+<img width=220 src="https://user-images.githubusercontent.com/55358113/231132295-0e112b4b-8986-48fd-865d-e91358ebdd6d.png" /> <img width=220 src="https://user-images.githubusercontent.com/55358113/231132379-63189e86-436c-4a7d-ada4-8f5529b0dd77.png" /> <img width=220 src="https://user-images.githubusercontent.com/55358113/231132426-1e79eef9-9bf9-4d34-826e-2c286fa5ae74.png" /> <img width=220 src="https://user-images.githubusercontent.com/55358113/231132501-dc4576d3-f027-4072-9076-daf79f3cf027.png" /> <img width=220 src="https://user-images.githubusercontent.com/55358113/231132548-93e81a90-b08a-455c-ba9e-3e7db599886c.png" /> <img width=220 src="https://user-images.githubusercontent.com/55358113/231132740-1f3a7df9-fc09-44ab-9b73-b9a54de4f46d.png" /> <img width=220 src="https://user-images.githubusercontent.com/55358113/231132812-7c005325-409e-45f6-a11f-cef7003ff3bb.png" />
 </p>
 
 ## Description
-Discover the position of the sun at any moment: set the hour and the date to discover from what direction sunlight will come at that time.
+Discover the exact position of the sun at any moment with Sunlitt. Set the hour and date to see the direction from which sunlight will come at that time. 
+In addition, Sunlitt provides comprehensive information about the sun's path in the sky, including first and last light, the sun's altitude and azimuth, golden hour, solar noon, sunset, and sunrise.
 
-Sunlitt solves problems for:
-• House seekers: check if your future house has natural light at any time of the day and the year.
-• Plants lovers: ensure your plants get the right amount of sunlight.
-• Photographers and Content creators: find the right light to plan shoots.
-• Real Estate Agents: showcase the beautiful natural light of a house at any hour.
-• Architects: get an idea of the sunlight direction when scouting a location.
-• Campers: decide where to place their tents to ensure nice shade in the morning.
-• Drivers: park your car in a place that will be in the shadow when you get back to it.
-• People with skin conditions: know how to avoid sunlight.
-• Solar Panel Technician: find the optimal panel orientation.
-• Travellers: organise your journeys.
-• Joggers: create the perfect path where to run.
 
-Sunlitt has Lock Screen and Home Screen widgets along with Watch complications to keep track of the sun's direction during sunrise, golden hour, and sunset.
+Sunlitt is an essential tool for a wide range of people:
 
-The clean and minimal interface will ensure an outstanding and intuitive experience. If you need more control, you can access the map mode to discover the sun's direction everywhere in the world. You can pin your position around the world to discover the sun's direction in a specific moment, in that specific place.
+• House seekers can check if their future home will have natural light at any time of the day and year.
+
+• Plant lovers can ensure their plants get the right amount of sunlight.
+
+• Photographers and content creators can plan their shoots by finding the perfect lighting.
+
+• Real estate agents can showcase the beautiful natural light of a house at any hour.
+
+• Architects can get a quick idea of the sunlight direction when inspecting a location.
+
+• Campers can decide where to place their tents to ensure nice shade in the morning.
+
+• Drivers can park their cars in a spot that will be in the shade when they return.
+
+• People with skin conditions can know how to avoid sunlight.
+
+• Solar panel technicians can find the optimal panel orientation.
+
+• Beachgoers can find the best spot for sunbathing or avoid the sun during peak hours.
+
+
+Sunlitt also offers Lock Screen and Home Screen widgets, along with Apple Watch complications, to track the sun's direction during sunrise, golden hour, and sunset. The app's clean and minimal interface ensures an outstanding and intuitive experience.
+
+For those who need more control, the map mode allows users to discover the sun's direction anywhere in the world. Pin your position to discover the sun's direction at a specific moment and location.
 
 ## Technologies
 - Swift
