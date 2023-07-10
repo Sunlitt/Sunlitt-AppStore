@@ -42,15 +42,3 @@ Sunlitt is an essential tool for a wide range of people:
 Sunlitt also offers Lock Screen and Home Screen widgets, along with Apple Watch complications, to track the sun's direction during sunrise, golden hour, and sunset. The app's clean and minimal interface ensures an outstanding and intuitive experience.
 
 For those who need more control, the map mode allows users to discover the sun's direction anywhere in the world. Pin your position to discover the sun's direction at a specific moment and location.
-
-## Technologies
-- Swift
-- SwiftUI
-- MapKit
-- CoreLocation
-- SceneKit
-- CoreHaptics
-- WatchKit
-- ClockKit
-- WidgetKit
-- Combine
