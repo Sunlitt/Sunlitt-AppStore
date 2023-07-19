@@ -4,6 +4,7 @@ Sunlitt tells you the direction of the sun at any time of the day.
 Available for iPhone, iPad and Apple Watch.
 
 <img height="50" alt="appstore1024" src="https://user-images.githubusercontent.com/55358113/235526907-c36a3275-6c1c-4c19-8907-f454e4f358e2.png"> [<img src="https://user-images.githubusercontent.com/55358113/174020637-ca23803f-341c-48ce-b896-1fd4b7423310.svg" height="50">](https://apps.apple.com/app/litt/id1628751457)
+<a href="https://www.producthunt.com/posts/sunlitt?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-sunlitt" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=405401&theme=light" alt="Sunlitt - Easily&#0032;track&#0032;the&#0032;sun | Product Hunt" style="width: 250px; height: 50px;" width="250" height="54" /></a>
 
 ## Screenshots
 
