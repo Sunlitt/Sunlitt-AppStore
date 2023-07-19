@@ -1,5 +1,5 @@
 # Sunlitt-AppStore
-Sunlitt tells you the direction of the sun at any time of the day.
+Your all-in-one companion to track and embrace sunlight. Never miss golden hour, blue hour, or the magic of sunrises and sunsets again. Get notified, capture stunning moments, and unlock the beauty of sunlight. Experience the wonder with Sunlitt today!
 
 Available for iPhone, iPad and Apple Watch.
 
@@ -9,7 +9,7 @@ Available for iPhone, iPad and Apple Watch.
 ## Screenshots
 
 <p align="center">
-<img width=220 src="https://user-images.githubusercontent.com/55358113/231136019-7978f02a-10e6-4d78-b246-39122de904cf.mp4" /> <img width=220 src="https://user-images.githubusercontent.com/55358113/231132295-0e112b4b-8986-48fd-865d-e91358ebdd6d.png" /> <img width=220 src="https://user-images.githubusercontent.com/55358113/231132379-63189e86-436c-4a7d-ada4-8f5529b0dd77.png" /> <img width=220 src="https://user-images.githubusercontent.com/55358113/231132426-1e79eef9-9bf9-4d34-826e-2c286fa5ae74.png" /> <img width=220 src="https://user-images.githubusercontent.com/55358113/231132501-dc4576d3-f027-4072-9076-daf79f3cf027.png" /> <img width=220 src="https://user-images.githubusercontent.com/55358113/231132548-93e81a90-b08a-455c-ba9e-3e7db599886c.png" /> <img width=220 src="https://user-images.githubusercontent.com/55358113/231132740-1f3a7df9-fc09-44ab-9b73-b9a54de4f46d.png" /> <img width=220 src="https://user-images.githubusercontent.com/55358113/231132812-7c005325-409e-45f6-a11f-cef7003ff3bb.png" />
+<img width=220 src="https://github.com/Sunlitt/Sunlitt-AppStore/assets/55358113/96bda603-3ad7-4133-beb3-f4f789780e63" /> <img width=220 src="https://github.com/Sunlitt/Sunlitt-AppStore/assets/55358113/ed70871a-d937-499d-b9a9-d466085b5b1b" /> <img width=220 src="https://github.com/Sunlitt/Sunlitt-AppStore/assets/55358113/dbe4bd66-d0d4-410f-a3c5-b7f4d91b2a29" /> <img width=220 src="https://github.com/Sunlitt/Sunlitt-AppStore/assets/55358113/38eecaa1-0628-4ab4-903c-2792115f349c" /> <img width=220 src="https://github.com/Sunlitt/Sunlitt-AppStore/assets/55358113/31a276e9-700e-4b72-b120-c99260a22d16" /> <img width=220 src="https://github.com/Sunlitt/Sunlitt-AppStore/assets/55358113/34b2480b-478b-4415-b47f-21cc18f8c08c" /> <img width=220 src="https://github.com/Sunlitt/Sunlitt-AppStore/assets/55358113/75ba12a7-1c28-41b2-8611-7203447fbeed" /> <img width=220 src="https://github.com/Sunlitt/Sunlitt-AppStore/assets/55358113/93457437-69bc-4114-9ac6-2534047a8d8a" /> <img width=220 src="https://github.com/Sunlitt/Sunlitt-AppStore/assets/55358113/7200c9ed-a601-4291-a991-ea7f266de8bc" /> <img width=220 src="https://github.com/Sunlitt/Sunlitt-AppStore/assets/55358113/bb804e31-c1d5-457c-84db-a1f2424e74a8" />
 </p>
 
 ## Description
