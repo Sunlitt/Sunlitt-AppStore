@@ -13,33 +13,48 @@ Available for iPhone, iPad and Apple Watch.
 </p>
 
 ## Description
-Discover the exact position of the sun at any moment with Sunlitt. Set the hour and date to see the direction from which sunlight will come at that time. 
-In addition, Sunlitt provides comprehensive information about the sun's path in the sky, including first and last light, the sun's altitude and azimuth, golden hour, solar noon, sunset, and sunrise.
+Unlock the full potential of natural light with Sunlitt - the app that puts the sun's exact position right at your fingertips. No more guesswork, just precise information to optimize your daily activities and enhance your life.
 
+Tailored to Your Lifestyle: Sunlitt is designed with you in mind, whether you're a visionary photographer, a nature-loving explorer, or a camping enthusiast seeking the perfect shaded spot. Seamlessly plan your shoots, ensure optimal outdoor activities with the right light, and discover that idyllic retreat precisely where the sun will rise or set.
 
-Sunlitt is an essential tool for a wide range of people:
+Your Professional Edge: For architects, real estate agents, and solar panel technicians, Sunlitt is an indispensable tool. Instantly assess sunlight direction during inspections, showcase the allure of a property's natural light, and optimize solar panel orientation for maximum efficiency.
 
-• House seekers can check if their future home will have natural light at any time of the day and year.
+Here some ***Key Features*** of Sunlitt: 
 
-• Plant lovers can ensure their plants get the right amount of sunlight.
+● Sun Position Prediction
 
-• Photographers and content creators can plan their shoots by finding the perfect lighting.
+Unlock the sun's secrets with Sunlitt's day and year sun prediction. Effortlessly set the day and date using the intuitive sliders and explore the sun's precise location for any moment you desire.
 
-• Real estate agents can showcase the beautiful natural light of a house at any hour.
+● Solar Events at Fingertips
 
-• Architects can get a quick idea of the sunlight direction when inspecting a location.
+From stunning sunrises to captivating sunsets, and every celestial event in between – solar noon and midnight, twilights, golden and blue hour, first and last light, azimuth, altitude, equinoxes, solstices, day and night length – Sunlitt keeps you in sync with the sun's majestic journey.
 
-• Campers can decide where to place their tents to ensure nice shade in the morning.
+● Worldwide Coverage with Explore Mode
 
-• Drivers can park their cars in a spot that will be in the shade when they return.
+Explore mode enables you to check the sun's direction anywhere in the world. Simply pin your position and unveil the sun's orientation at any specific moment and location. Save your favorite spots for easy access.
 
-• People with skin conditions can know how to avoid sunlight.
+● Stay Informed with Notifications and Live Activities
 
-• Solar panel technicians can find the optimal panel orientation.
+Never miss a moment with Sunlitt's real-time notifications and live activity updates. Whether it's a breathtaking sunset or the magical golden hour, Sunlitt ensures you're always in the know. 
 
-• Beachgoers can find the best spot for sunbathing or avoid the sun during peak hours.
+● Widgets and Complications for Instant Access
 
+Stay informed with just a glance! Sunlitt offers Lock Screen and Home Screen widgets, along with Apple Watch complications. 
 
-Sunlitt also offers Lock Screen and Home Screen widgets, along with Apple Watch complications, to track the sun's direction during sunrise, golden hour, and sunset. The app's clean and minimal interface ensures an outstanding and intuitive experience.
+● Personalize Your Experience 
 
-For those who need more control, the map mode allows users to discover the sun's direction anywhere in the world. Pin your position to discover the sun's direction at a specific moment and location.
+Customize Sunlitt to match your style. Choose from a variety of app icons, and switch between the dark and light themes for a visually delightful experience that suits your taste.
+
+● Seamless Apple Watch and iPad Integration
+
+Stay connected to the sun's path on all your devices! Enjoy the full Sunlitt experience on your Apple Watch and iPad!
+
+●  No internet connection needed
+
+No internet? No problem! Sunlitt works seamlessly offline, ensuring you're always in control of the sun's position, no matter where you are.
+
+● Free and Ad-Free Experience
+
+Enjoy most features of Sunlitt for free, with no ads to interrupt your sunlitt journey. For additional benefits, there's an auto-renewable subscription with a 7-day free trial. You can manage subscriptions easily in your account settings. Family sharing is also supported. 
+
+Join the thousands who have already embraced Sunlitt's brilliance. Download now and embark on a journey of precision, purpose, and possibilities.
