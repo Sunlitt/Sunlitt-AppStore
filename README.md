@@ -1,3 +1,5 @@
+[![Crowdin](https://badges.crowdin.net/sunlitt/localized.svg)](https://crowdin.com)
+
 # Sunlitt-AppStore
 Available for iPhone, iPad and Apple Watch.
 
