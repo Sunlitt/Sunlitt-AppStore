@@ -3,7 +3,7 @@
 # Sunlitt-AppStore
 Available for iPhone, iPad, Apple Watch, and Apple Vision Pro.
 
-<img height="50" alt="appstore1024" src="https://user-images.githubusercontent.com/55358113/235526907-c36a3275-6c1c-4c19-8907-f454e4f358e2.png"> [<img src="https://user-images.githubusercontent.com/55358113/174020637-ca23803f-341c-48ce-b896-1fd4b7423310.svg" height="50">](https://apps.apple.com/app/litt/id1628751457)
+<img height="50" alt="appstore1024" src="https://github.com/Sunlitt/Sunlitt-AppStore/assets/55358113/4a8e0b35-c589-4930-9431-a074c50c3cc5"> [<img src="https://user-images.githubusercontent.com/55358113/174020637-ca23803f-341c-48ce-b896-1fd4b7423310.svg" height="50">](https://apps.apple.com/app/litt/id1628751457)
 <a href="https://www.producthunt.com/posts/sunlitt?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-sunlitt" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=405401&theme=light" alt="Sunlitt - Easily&#0032;track&#0032;the&#0032;sun | Product Hunt" style="width: 250px; height: 50px;" width="250" height="54" /></a>
 
 ## Contribute to Sunlitt
@@ -20,7 +20,7 @@ Sunlitt tracks the sun's position and movements, anywhere and at any time.
 Sunlitt provides precise (and also offline) times for sunrise and sunset, golden hour, blue hour, and much more.
 
 ● [NOW IN 3D] Sun Position and Path
-Use the date and time sliders to effortlessly track the sun's exact location and path from sunrise to sunset.
+Use the date and time sliders to effortlessly track the sun's location and path from sunrise to sunset.
 
 ● Solar Events Times
 Get accurate times for sunrise and sunset, golden hour, blue hour, twilight, and more.
@@ -44,7 +44,7 @@ Receive notifications for sun events, including sunrise and sunset, golden hour,
 Use Lock Screen widgets, Home Screen widgets, and Apple Watch complications to track the sun's position and path.
 
 ● Personalize
-Choose alternative app icons, and dark and light themes, and use the Dynamic Info Bar to display your favorite sun events and weather conditions.
+Choose alternative app icons, and dark/light themes, and use the Dynamic Info Bar to display your favorite sun events and weather conditions.
 
 ● Apple Watch, iPad, and Vision Pro
 Enjoy Sunlitt on all your devices, tracking the sun's position and path in the sky.
@@ -53,7 +53,7 @@ Enjoy Sunlitt on all your devices, tracking the sun's position and path in the s
 Sunlitt works offline, displaying your geographic coordinates.
 
 ● Free Experience
-Enjoy features ad-free. For additional benefits, opt for an auto-renewable subscription with a free trial or a one-time purchase. 
+Enjoy features ad-free. Opt for an auto-renewable subscription with a free trial or a one-time purchase for additional benefits. 
 
-Photographer, interior designer, or a nature lover?
+Photo for additional benefitsgrapher, interior designer, or a nature lover?
 Download Sunlitt today and start enjoying the sun!
